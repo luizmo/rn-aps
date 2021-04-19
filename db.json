@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "description": "Rice",
+      "category": "Non Perishable",
+      "image": "https://www.world-grain.com/ext/resources/Article-Images/2020/12/GMR_Rice_AdobeStock_64819529_E_Nov.jpg"
+    },
+    {
+      "id": 2,
+      "description": "Flour",
+      "category": "Non Perishable",
+      "image": "https://cardiff.imgix.net/__data/assets/image/0004/460849/Cocaine.jpg"
+    },
+    {
+      "id": 3,
+      "description": "Potato",
+      "category": "Perishable",
+      "image": "https://static.turbosquid.com/Preview/2018/02/23__03_30_44/MrPotatoHeadvray3dmodel000.jpg48BAC131-CDD3-4C93-B31D-54F074DAC16FLarge.jpg"
+    }
+  ]
+}
